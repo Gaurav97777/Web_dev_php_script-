@@ -1,5 +1,5 @@
 <?php
-$info=array("name"=>'ri',"age"=>22,"email"=>'ri@gmailcom');
+$info=array("name"=>'gaurav',"age"=>21,"email"=>'gauravshing09@gmailcom');
 echo"age=";
 print_r($info['age']);
 ?>
