@@ -1,4 +1,4 @@
 <?php
-$info=array("name"=>'ri',"age"=>22,"email"=>'ri@gmailcom');
+$info=array("name"=>'gaurav',"age"=>21,"email"=>'gauravshing09@gmail.com');
 print_r($info);
 ?>
