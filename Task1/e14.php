@@ -1,5 +1,5 @@
 <?php
-$info=array("name"=>'ri',"age"=>22,"email"=>'ri@gmailcom');
+$info=array("name"=>'gaurav',"age"=>22,"email"=>'gauravshing09@gmailcom');
 echo"before deleting the email<br/>=";
 print_r($info);
 echo"<br/>after deleting<br/>";
